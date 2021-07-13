@@ -1,0 +1,13 @@
+.weatherCard {
+    border: 1px solid gray;
+    width: 10%;
+    margin: 5px 5px 5px 5px;
+    text-align: center;
+    background-color: rgb(215, 215, 215);
+    font-size: 0.7vw;
+    transition: 0.3s;
+}
+.weatherCard:hover {
+    background-color: rgb(170, 170, 170);
+    cursor: pointer;
+}
